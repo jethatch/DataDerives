@@ -1,9 +1,10 @@
-#This is an update to the wonderful running-maps scraping tool made by Tyler Pearson and found here: https://github.com/tylerpearson/running-maps
-#The vast majority of these updates were made by Josh Gray (https://github.com/ireisme) with some very small changes made by Jim Thatcher (https://github.com/jethatch/)
+## This is an update to the wonderful running-maps scraping tool made by Tyler Pearson and found here: https://github.com/tylerpearson/running-maps
 
+## The vast majority of these updates were made by Josh Gray (https://github.com/ireisme) with some very small changes made by Jim Thatcher (https://github.com/jethatch/)
 
+The original readme follows.
 
-###---------------------------------------------------------------------------
+### ---------------------------------------------------------------------------
 
 # Most popular running routes scripts
 
