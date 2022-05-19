@@ -3,11 +3,13 @@ GEM
   specs:
     certified (1.0.0)
     colored (1.2)
-    mini_portile2 (2.1.0)
-    nokogiri (1.6.8.1)
-      mini_portile2 (~> 2.1.0)
-    nokogiri (1.6.8.1-x86-mingw32)
-      mini_portile2 (~> 2.1.0)
+    mini_portile2 (2.8.0)
+    nokogiri (1.13.5)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    nokogiri (1.13.5-x86-mingw32)
+      racc (~> 1.4)
+    racc (1.6.0)
 
 PLATFORMS
   ruby
